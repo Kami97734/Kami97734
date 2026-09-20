@@ -28,6 +28,20 @@ Meu trabalho público prioriza segurança defensiva e testes autorizados. Os pro
 - **Dados e privacidade:** modelagem segura, controle de acesso, proteção de credenciais, minimização de dados e LGPD/GDPR
 - **Relatórios:** evidências reproduzíveis, priorização de risco, impacto, recomendações práticas e redução de falsos positivos
 
+## Offensive security e simulação adversária
+
+Também estudo e desenvolvo práticas de segurança ofensiva para validar defesas em ambientes autorizados, laboratórios locais, CTFs e aplicações de teste.
+
+- Red team e purple team com escopo, regras de engajamento e evidências controladas
+- Reconhecimento autorizado, modelagem de ameaças e análise de superfície de ataque
+- Validação de vulnerabilidades web e de APIs em ambientes próprios, sem exfiltrar dados reais
+- Testes controlados de autenticação, autorização, sessões, entradas e configurações inseguras
+- Simulações de phishing e engenharia social somente em campanhas aprovadas e educativas
+- Exploit validation com payloads inofensivos, limites de segurança e encerramento automático
+- Pós-teste responsável: documentação, remediação, reteste e comunicação clara do risco
+
+O objetivo é demonstrar impacto de forma segura, sem persistência, destruição, interrupção de serviço, coleta de credenciais ou acesso a dados de terceiros.
+
 ## Skills e tecnologias
 
 ### Linguagens
