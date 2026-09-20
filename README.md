@@ -1,10 +1,19 @@
+<div align="center">
+
 # Olá, eu sou o Kami 👋
 
-Full-stack developer construindo produtos digitais, ferramentas de cibersegurança defensiva, automações e experiências web modernas. Gosto de transformar problemas reais em software funcional, documentado e fácil de evoluir.
+### Desenvolvedor independente construindo produtos digitais, segurança e experiências com IA
+
+Construo aplicações full-stack, automações e ferramentas de segurança com foco em utilidade, qualidade e evolução contínua.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kami97734-181717?logo=github)](https://github.com/Kami97734)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Defensive%20Security-0f766e?logo=owasp)](https://owasp.org/)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Authorized%20Security-0f766e?logo=owasp)](https://owasp.org/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Projects-2ea44f?logo=opensourceinitiative)](https://github.com/Kami97734?tab=repositories)
+[![GF Online](https://img.shields.io/badge/Live%20project-GF%20Online-7c3aed?logo=vercel&logoColor=white)](https://gf.exporporamor.vercel.app)
+
+</div>
+
+> Tecnologia, criatividade e engenharia de software para transformar ideias em projetos reais.
 
 ## Sobre mim
 
@@ -60,13 +69,13 @@ O objetivo é demonstrar impacto de forma segura, sem persistência, destruiçã
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?logo=githubactions&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
 
-## Projetos em destaque
+## Ecossistema de projetos
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
 | [CyberProbe](https://github.com/Kami97734/cyberprobe) | Verificação defensiva de sites, APIs, rede, cloud e DevOps em escopos autorizados | Python, Docker |
 | [Kamikaze AI](https://github.com/Kami97734/kamikaze-ai-public) | IA local, moderação, automações, dashboard e plugins para comunidades | Python, Ollama, Discord |
-| [GF Online](https://github.com/Kami97734/gf-online-public) | Aplicação web comunitária com perfis, participação e administração protegida | Next.js, React, Supabase |
+| [GF Online](https://github.com/Kami97734/gf-online-public) | Aplicação web comunitária com perfis, participação e administração protegida · [site online](https://gf.exporporamor.vercel.app) | Next.js, React, Supabase |
 | [Project Finder](https://github.com/Kami97734/project-finder-public) | Pesquisa de empresas, oportunidades e organização comercial | TypeScript, Next.js, Docker |
 | [Vitrine White Label](https://github.com/Kami97734/vitrine-white-label-public) | Vitrines configuráveis para catálogos, temas, produtos e pedidos | Next.js, Prisma, PostgreSQL |
 
